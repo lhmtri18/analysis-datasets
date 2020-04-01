@@ -1,0 +1,1 @@
+This datasets googleplaystore.csv and googleplaystore_user_reviews.csv is from Kaggle.com, i just use Rstudio and tableau to analyse basically some insights
