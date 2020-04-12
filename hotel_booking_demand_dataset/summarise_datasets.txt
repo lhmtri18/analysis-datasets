@@ -1,0 +1,13 @@
+- Tourists have 2 people with 82k records is most, next is 1 with 22k 
+and after is 3 people with 10k
+- Main guest is new tourist( perform by rate_type_guest_by_hotel.csv)
+- Demand room A is the best, next is room D
+- the amount of tourists increase in middle of year and low at beginning and end 
+of year.
+- Base on holt linear trend model,number of tourist will increase in next 6months
+- Base on damped holt linear trend model,number of tourist will stable and unchange
+ in next 6months
+- While arima perform that the number of tourist will decrease in next 6 months
+- Base on data, i think the number of tourist will decrease in next 6 months
+- There is a increased trend through months
+
